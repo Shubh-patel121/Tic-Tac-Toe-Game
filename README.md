@@ -7,4 +7,4 @@ In the project directory, you can run:
 ### `npm install`
 ### `npm start`
 
-![Screenshot](src/images/screenshot.png)
+![Screenshot](Tic-Tac-Toe-Game/src/images/screenshot.png)
